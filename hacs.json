@@ -1,0 +1,11 @@
+{
+    "name": "Luftmessnetz Bremen",
+    "render_readme": true,
+    "domains": [
+        "luftmessnetz_bremen"
+    ],
+    "country": [
+        "DE"
+    ],
+    "homeassistant": "2025.10.4"
+}

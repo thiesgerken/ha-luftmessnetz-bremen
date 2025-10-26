@@ -1,0 +1,9 @@
+[project]
+name = "ha-luftmessnetz-bremen"
+version = "0.1.0"
+description = "Home Assistant custom integration: Luftmessnetz Bremen"
+readme = "README.md"
+requires-python = ">=3.13.2"
+authors = [{ name = "Thies Gerken <thies@thiesgerken.de>" }]
+license = { text = "MIT" }
+dependencies = ["homeassistant>=2025.10.4"]

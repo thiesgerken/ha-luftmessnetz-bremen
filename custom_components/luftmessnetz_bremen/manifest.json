@@ -1,0 +1,14 @@
+{
+  "domain": "luftmessnetz_bremen",
+  "name": "Luftmessnetz Bremen",
+  "codeowners": [
+    "@thiesgerken"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/luftmessnetz_bremen",
+  "iot_class": "cloud_polling",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "version": "0.1.0"
+}
